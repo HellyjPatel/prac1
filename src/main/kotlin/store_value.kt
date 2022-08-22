@@ -1,14 +1,14 @@
 fun main()
 {
     val a: Int = 10
-    val b: Float = 1.5F
-    var c: String = "Nirmal"
-    var d: Char = 'N'
+    val b: Float = 3.4F
+    var c: String = "helly"
+    var d: Char = 'H'
     val e: Boolean = false
-    val f: Double = 10.54
+    val f: Double = 15.70
     val g: Long = 75934035
-    val h: Short = -4
-    val i: Byte = 123
+    val h: Short = -9
+    val i: Byte = 11
     println("Integer value: $a")
     println("Float value: $b")
     println("String value: $c")
