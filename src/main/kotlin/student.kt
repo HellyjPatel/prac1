@@ -25,8 +25,8 @@ fun main(){
     println("Student Name: $b")
     println("Student Branch: $c")
     println("Student Class: $d")
-    println("Student Class: $e")
-    println("Student Class: $f")
-    println("Student Class: $g")
-    println("Student Class: $h")
+    println("Student BATCH: $e")
+    println("Student College name: $f")
+    println("Student UNIVERSITY NAME: $g")
+    println("Student Age: $h")
 }
